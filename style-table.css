@@ -239,6 +239,10 @@ BORDER STYLE ---
     border-style: solid;
 }
 
+.no-breakline {
+  white-space: nowrap;
+}
+
 /*
 table {
 border: none;
